@@ -1,0 +1,308 @@
+
+*{
+	font-size: 10px;
+	margin: 0px;
+}
+
+/*主体结构*/
+.main{
+	width: 900px;
+	height: 800px;
+	margin: auto;
+	border: solid 0px whitesmoke;
+}
+
+/*top导航整体*/
+.top{
+	width: 900px;
+	height: 130px;
+	margin: auto;
+}
+/*会员菜单*/
+.top1{
+	width: 400px;
+	height: 25px;
+	float: right;
+	background-image:url(../img/topmenu_bg.jpg);
+	background-repeat: no-repeat;
+}
+.top1 a{
+	color: black;
+	text-decoration: none;
+	text-align: center;
+	margin:8px;
+	font-size: 10px;
+	line-height: 25px;
+}
+/*会员菜单*/
+/*logo*/
+.logo{
+	width: 220px;
+	height: 105px;
+	padding-bottom: 5px;
+	float: left;
+	background-image: url(../img/1257477260.gif);
+	background-repeat: no-repeat;
+}
+/*用户*/
+.mid1{
+	width: 500px;
+	height: 39px;
+	float: right;
+	padding-top: 20px;
+}
+/*用户选择菜单*/
+.mid2{
+	width: 646px;
+	height: 41px;
+	padding-left: 30px;
+	float: right;
+}
+.mid2 a{
+	color: white;
+	text-decoration: none;
+	background-image:url(../img/menu.jpg);
+	display: block;
+	width: 87px;
+	height: 41px;
+	float: left;
+	margin-left: 5px;
+	text-align: center;
+	line-height: 41px;
+}
+/*鼠标在链接上显示蓝色*/
+.mid2 a:hover{
+	color:white;
+	background-image:url(../img/menu_hover.jpg);
+}
+
+/*列表设计*/
+.list{
+	width: 900px;
+	height: 200px;
+	margin-top: 50px;
+}
+
+.list table{
+	margin: auto;
+	width: 700px;
+	height: 165px;
+	margin-top: 50px;
+}
+
+.list img{
+	margin-right: 20px;
+	width: 50px;
+	height: 20px;
+}
+
+.list input{
+	border: none;
+}
+
+.list a{
+	text-decoration: none;
+	color: black;
+}
+.big{
+	width: 900px;
+	height: 700px;
+	margin: auto;
+}
+.content {
+	width:600px;
+	height: 560px;
+	border: orange 1px solid;
+	border-radius: 10px;
+	float: left;
+}
+.content_top{
+	width: 300px;
+	height: 180px;
+	float:left;
+            }
+.content_img{
+	width: 150px;
+	height: 150px;
+	
+            }
+.content_font{
+	width: 120px;
+	height: 100px;
+	margin-top: -130px;
+	float: right;
+	margin-left:10px;
+	
+}
+.content_button{
+	width: 300px;
+	height:30px ;
+}
+.contentright {
+	width: 295px;
+	height: 532px;
+	float: right;
+}
+.right_top {
+	width: 295px;
+	height: 100px;
+	border:orange 1px solid;
+	border-radius:10px;
+	float: right;
+	background-image: url(../img/bg.jpg);
+	background-repeat: no-repeat;
+}
+.right_top_1{
+	width: 230px;
+	height: 30px;
+	float: right;
+	line-height: 40px;
+	}
+.right_top_1_1{
+	width: 50px;
+	height: 30px;
+	float: right;
+	line-height: 40px;
+	text-align: center;
+}
+.right_top_1_1 a{
+	width: 50px;
+	height: 30px;
+	float: right;
+	line-height: 40px;
+	text-align: center;
+}
+.right_mid {
+	width: 295px;
+	height: 200px;
+	border: orange 1px solid;
+	float: right;
+	background-image: url(../img/dingcanche.jpg);
+	background-repeat: no-repeat;
+	border-radius: 10px;
+    margin-top: 10px;
+    
+}
+.right_mid_1 {
+	width: 230px;
+	height: 30px;
+	float: right;
+	line-height: 40px;
+	}
+	.right_mid_1_1 {
+		width: 50px;
+		height: 30px;
+		float: right;
+		line-height: 40px;
+		text-align: center;
+		}
+	.right_mid_1_1 a {
+		width: 50px;
+		height: 30px;
+		float: right;
+		line-height: 40px;
+		text-align: center;
+		}
+    .right_bottom {
+	width: 295px;
+	height: 170px;	
+    border: orange 1px solid;
+	background-image:url(../img/dingcanweekmenu.jpg);
+	float: right;
+	background-repeat: no-repeat;
+	border-radius: 10px;
+    margin-top: 10px;
+    }
+    .right_bottom_1  {
+	width: 230px;
+	height: 30px;
+	float: right;
+	line-height: 40px;
+	}
+   .content2 {
+	width: 900px;
+	height: 70px;
+	margin-top:600px;
+         }
+   .content3{width:900px;
+          height: 50px;
+          margin-top: 50px;}
+              	
+          }
+   .content4 {width: 900px;
+          height: 50px;
+         margin-top:800px;
+          }
+   .table{
+			border-width:2px;
+			border-top-width:4px;
+			margin-left:auto;
+			margin-right:auto;
+			margin-top: 50px;
+		}
+	#div1{
+			width:700px;
+			height:325px;
+			margin:auto;
+			margin-top: 50px;
+		}
+		.D{
+			width: 700px;
+			height: 350px;
+			margin-top: 50px;
+			background: blanchedalmond;
+			border: blanchedalmond 1px solid;
+			border-radius: 10px;
+			margin: auto;
+			margin-top: 50px;
+		}
+		.D1{ width: 700px;
+		     height:200px;
+		     margin-top: 80px;}
+		.D2{
+			width: 300px;
+			height: 150px;
+			background: beige;
+			border: blanchedalmond 1px solid;
+			margin-left: 25px;
+			border-radius: 10px;
+		}
+		.D3{
+		    width: 300px;
+			height: 150px;
+			background: beige;
+			border: blanchedalmond 1px solid;
+			float: right;
+			margin-right: 25px;
+			border-radius: 10px;
+			margin-top: -150px;
+		     }
+		  
+		.class{
+	        width: 900px;
+	        height: 350px;
+	        padding-top: 30px;
+	          }    
+
+.search{
+	width: 900px;
+	height: 90px;
+	margin-top: 30px;
+}
+
+.search table{
+	margin: auto;
+	width: 500px;
+	height: 85px;
+}
+
+.search a{
+	text-decoration: none;
+	color: black;
+}
+.midlist{
+	width: 300px;
+	height: 150px;
+	margin-top: 20px;
+	margin: auto;
+}
